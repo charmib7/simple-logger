@@ -2,10 +2,12 @@ Fully functional example website with some simple features involving Supabase; f
 
 Make sure to add your own .env file in the root with the following:
 
-VITE_FIREBASE_API_KEY=your_actual_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
-VITE_FIREBASE_PROJECT_ID=your_project_id
-VITE_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
-VITE_FIREBASE_MESSAGING_SENDER_ID=123456789
-VITE_FIREBASE_APP_ID=1:123456789:web:abcdef
-VITE_FIREBASE_MEASUREMENT_ID= your_measurement_ID
+* VITE_FIREBASE_API_KEY=your_actual_api_key
+* VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
+* VITE_FIREBASE_PROJECT_ID=your_project_id
+* VITE_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
+* VITE_FIREBASE_MESSAGING_SENDER_ID=123456789
+* VITE_FIREBASE_APP_ID=1:123456789:web:abcdef
+* VITE_FIREBASE_MEASUREMENT_ID= your_measurement_ID
+
+You can find this info in your general project settings on Supabase.
